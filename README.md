@@ -2,8 +2,6 @@
 
 This is a repo that lists the books I got recommended since moving more into the operations / infrastrastructure world. It lists the titles that relate to Continuous Delivery, DevOps, Operations and Systems Thinking
 
-If you have a suggestion for the list, then please send a PR, I would be happy to add it.
-
 ### Continuous Delivery / RelEng
 
 [Continous Delivery](http://www.amazon.co.uk/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)  
@@ -39,12 +37,8 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [The Fifth Discipline: The art and practice of the learning organization](http://www.amazon.co.uk/The-Fifth-Discipline-practice-organization/dp/1905211201)
 
 ### Tooling
-[Pro Nagios](http://www.amazon.co.uk/Nagios-Experts-Voice-Open-Source/dp/1590596099)  
 [The LogStash Book](http://www.amazon.co.uk/The-Logstash-Book-James-Turnbull-ebook/dp/B00B9JQTCO)  
 [The Docker Book](http://www.amazon.co.uk/Docker-Book-Containerization-new-virtualization-ebook/dp/B00LRROTI4/)  
-
-### Databases
-[High Performance MySQL](http://www.amazon.co.uk/High-Performance-MySQL-Optimization-Replication/dp/1449314287)
 
 ### Agile
 [Implementing Lean Software Development](http://www.amazon.co.uk/Implementing-Lean-Software-Development-Addison-Wesley/dp/0321437381/ref=cm_lmf_tit_11)  
@@ -52,3 +46,6 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [Running Lean](http://www.amazon.co.uk/Running-Lean-Iterate-Works-OReilly/dp/1449305172/ref=sr_1_1?ie=UTF8&qid=1428438864&sr=8-1&keywords=running+lean)  
 [The Lean Mindset](http://www.amazon.co.uk/The-Lean-Mindset-Questions-Signature/dp/0321896904/ref=pd_sim_b_4?ie=UTF8&refRID=0V4YYQKVT6CC0YE0QWRV)  
 [Lean from the Trenches](http://www.amazon.co.uk/Lean-Trenches-Managing-Large-Scale-Projects/dp/1934356859/ref=cm_lmf_tit_15)  
+### Management
+[Leading Snowflaces]
+[Team Geek]
