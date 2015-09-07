@@ -37,7 +37,7 @@ This is a repo that lists the books I got recommended since moving more into the
 [The Fifth Discipline: The art and practice of the learning organization](http://www.amazon.co.uk/The-Fifth-Discipline-practice-organization/dp/1905211201)
 
 ### Tooling
-~~[The LogStash Book](http://www.amazon.co.uk/The-Logstash-Book-James-Turnbull-ebook/dp/B00B9JQTCO)  ~~
+~~[The LogStash Book](http://www.amazon.co.uk/The-Logstash-Book-James-Turnbull-ebook/dp/B00B9JQTCO)~~
 [The Docker Book](http://www.amazon.co.uk/Docker-Book-Containerization-new-virtualization-ebook/dp/B00LRROTI4/)  
 
 ### Agile
